@@ -432,7 +432,7 @@ window.HomeController = {
 
     try {
       const response = await fetch(
-        "https://jarctech-ai-n8n-rnd.onrender.com/webhook/chat",
+        "https://jarc-juno.app.n8n.cloud/webhook/chat",
         {
           method: "POST",
           headers: {
